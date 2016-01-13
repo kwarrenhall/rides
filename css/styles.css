@@ -1,6 +1,11 @@
-#tall {
-  display: none;
+
+
+
+
+.tall {
+  background-color: yellow;
 }
-#short {
-  display: none;
+
+.short {
+  background-color: yellow;
 }
